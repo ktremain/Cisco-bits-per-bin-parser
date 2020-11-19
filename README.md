@@ -1,7 +1,8 @@
 # Cisco-bits-per-bin-parser
-a Visual Basic App Written Years ago (2010 i think) to parse the output of a cisco ADSL router (877) "sh dsl int" 'DMT Bits Per Bin' section into a string that can be pasted into Excel to graph the quality of the connection
 
-## example:
+A Visual Basic App Written Years ago (2010 i think) to parse the output of a cisco ADSL router (877) "sh dsl int" 'DMT Bits Per Bin' section into a string that can be pasted into Excel to graph the quality of the connection
+
+### _Example_
 
 Input:  
 DMT Bits Per Bin  
@@ -15,9 +16,13 @@ DMT Bits Per Bin
 070: 7 7 6 6 0 0 6 0 7 7 0 6 6 7 2 6  
 080: 6 7 6 0 0 0 0 0 0 0 0 0 0 0 0 0  
 
-Output:
+Output:  
 <#TODO>
 
-# Requires
+## Requires
 
  .Net 2.0
+
+## Note
+There is an easter-egg in the app too! :)  
+try and find it before you look in the code, its not well hidden....
