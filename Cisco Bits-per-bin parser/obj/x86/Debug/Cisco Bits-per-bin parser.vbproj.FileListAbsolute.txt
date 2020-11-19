@@ -1,0 +1,42 @@
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.exe
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.pdb
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.xml
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Form1.resources
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Resources.resources
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.exe
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.xml
+C:\Users\karl\AppData\Local\Temporary Projects\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.pdb
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.exe
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.xml
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.pdb
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.exe
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.pdb
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.xml
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Form1.resources
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Resources.resources
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karl\documents\visual studio 2010\Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Form2.resources
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.exe
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.pdb
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.xml
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\ResolveAssemblyReference.cache
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Form1.resources
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Form2.resources
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco_Bits_per_bin_parser.Resources.resources
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.read.1.tlog
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\GenerateResource.write.1.tlog
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.exe
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.xml
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.pdb
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.exe.config
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\ResGen.read.1.tlog
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\ResGen.write.1.tlog
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.exe.manifest
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\bin\Debug\Cisco Bits-per-bin parser.application
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.exe.manifest
+\\reddwarf\d$\Home\Karl\Visual Studio 2010 Projects\Cisco Bits-per-bin parser\Cisco Bits-per-bin parser\obj\x86\Debug\Cisco Bits-per-bin parser.application
